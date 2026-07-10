@@ -23,7 +23,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.08, duration: 0.75, ease: [0.16, 1, 0.3, 1] }}
         >
-          <span className="accent-text">Senior Frontend / Product Engineer</span> para produtos web, mobile e APIs em escala.
+          <span className="accent-text">Senior Frontend{' / '}Product Engineer</span> para produtos web, mobile e APIs em escala.
         </motion.h1>
 
         <motion.p
